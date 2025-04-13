@@ -1,7 +1,7 @@
 # 📌 IAB Taxonomy Classification Using RAG
 
 ## 📖 Overview  
-This project explores the use of a **hierarchical knowledge graph-based Retrieval-Augmented Generation (RAG) model** for **webpage classification** into the **IAB Content Taxonomy**. By leveraging **Neo4j for graph representation**, **context-constrained synonyms**, **multilingual embeddings**, and **LLM-driven summarization**, we enhance classification accuracy while reducing **semantic ambiguity and misclassification**.  
+This project explores the use of a **hierarchical knowledge graph-based Retrieval-Augmented Generation (RAG) model** for **webpage classification** into the **IAB Content Taxonomy**. By leveraging **Neo4j for graph representation**, **context-constrained synonyms**, **multilingual embeddings**, and **LLM-driven summarization**, classification accuracy is enhanced while reducing **semantic ambiguity and misclassification**.  
 
 ## 🚀 Key Features  
 ✔️ **Graph-Based Retrieval** – Uses **Neo4j** to structure hierarchical taxonomy relationships.  
